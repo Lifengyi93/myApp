@@ -1,0 +1,22 @@
+@import "~taro-ui/dist/style/index.scss"; // 引入组件样式，仅需引入一次即可
+@import "~taro-ui/dist/style/components/button.scss";
+@import "~taro-ui/dist/style/components/modal.scss";//Modal 模态框
+@import "~taro-ui/dist/style/components/list.scss";//List 列表
+@import "~taro-ui/dist/style/components/icon.scss"; //icon样式
+@import "~taro-ui/dist/style/components/flex.scss";
+@import "~taro-ui/dist/style/components/avatar.scss";
+@import "~taro-ui/dist/style/components/grid.scss"; //Grid 栅格布局
+@import "~taro-ui/dist/style/components/nav-bar.scss";//NavBar导航
+@import "~taro-ui/dist/style/components/tabs.scss";//Tabs 标签页
+@import "~taro-ui/dist/style/components/toast.scss"; //Toast 轻提示
+
+@import "~taro-ui/dist/style/components/article.scss";
+@import "~taro-ui/dist/style/components/form.scss";
+@import "~taro-ui/dist/style/components/input.scss";
+@import "~taro-ui/dist/style/components/image-picker.scss";
+@import "~taro-ui/dist/style/components/textarea.scss"; //Textarea 多行文本框
+@import "~taro-ui/dist/style/components/tag.scss"; //Tag 标签
+@import "~taro-ui/dist/style/components/badge.scss";//Badge 徽标
+@import "~taro-ui/dist/style/components/swipe-action.scss"; //SwipeAction 滑动操作
+@import "~taro-ui/dist/style/components/list.scss"; //Picker 选择器
+@import "~taro-ui/dist/style/components/card.scss"; //Card 卡片

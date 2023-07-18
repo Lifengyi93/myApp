@@ -1,0 +1,25 @@
+
+.empty{
+  width: 100%;
+  text-align: center;
+  padding:60rpx 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  &-text{
+    font-size: 0.8rem;
+  }
+}
+.small{
+  width:80rpx;
+  height:80rpx;
+}
+.normal{
+  width:120rpx;
+  height:120rpx;
+}
+.large{
+  width:180rpx;
+  height:180rpx;
+}

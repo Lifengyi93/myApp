@@ -1,0 +1,42 @@
+.message{
+  // text-align: center;
+}
+.swiper{
+  position: relative;
+}
+
+.item-thumb{
+  width:90rpx !important;
+  height:90rpx !important;
+  &__info{
+    border-radius: 10rpx;
+  }
+}
+
+.list-item{
+
+}
+
+.info{
+  position: absolute;
+  right:20rpx;
+  top:24rpx;
+  z-index: -1;
+  height:90rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items:flex-end;
+  font-size: 0.9rem;
+  color:#6d6d6d;
+  .num{
+    color:#fff;
+    background-color: #da0f0f;
+    width:40rpx;
+    height:40rpx;
+    border-radius: 40rpx;
+    font-size: 0.7rem;
+    ;line-height: 40rpx;
+    text-align: center;
+  }
+}

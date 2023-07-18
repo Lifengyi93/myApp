@@ -1,0 +1,36 @@
+.publish{
+  padding:20rpx;
+  .content{
+    border: none !important;
+    margin:20rpx;
+    font-size: 1rem;
+  }
+  .tags{
+    margin:20rpx;
+  }
+  .submit{
+    width:95%;
+    margin-bottom:40rpx;
+    position: fixed;
+    bottom:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .draft{
+      width: 80rpx;
+      height:80rpx;
+      border-radius: 80rpx;
+      background-color: #1616166c;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .send{
+      margin-left:20rpx;
+      width: 90%;
+      background-color: #a52a2a;
+      border-color: #a52a2a;
+      // border: none;
+    }
+  }
+}
